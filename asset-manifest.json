@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Drums/static/css/main.1c5afdf6.css",
+    "main.css": "/Drums/static/css/main.e5204b6d.css",
     "main.js": "/Drums/static/js/main.021b7da1.js",
     "static/js/787.66ddd28f.chunk.js": "/Drums/static/js/787.66ddd28f.chunk.js",
     "static/media/back.jpg": "/Drums/static/media/back.99c3c3e10d0348d4a8bd.jpg",
@@ -8,12 +8,12 @@
     "static/media/sound2.mp3": "/Drums/static/media/sound2.3e14221fdb101ebed609.mp3",
     "static/media/sound1.mp3": "/Drums/static/media/sound1.3f68bb3a6553aa2b342a.mp3",
     "index.html": "/Drums/index.html",
-    "main.1c5afdf6.css.map": "/Drums/static/css/main.1c5afdf6.css.map",
+    "main.e5204b6d.css.map": "/Drums/static/css/main.e5204b6d.css.map",
     "main.021b7da1.js.map": "/Drums/static/js/main.021b7da1.js.map",
     "787.66ddd28f.chunk.js.map": "/Drums/static/js/787.66ddd28f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c5afdf6.css",
+    "static/css/main.e5204b6d.css",
     "static/js/main.021b7da1.js"
   ]
 }
